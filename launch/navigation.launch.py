@@ -9,7 +9,7 @@ def generate_launch_description():
     homerun_package_path = get_package_share_path('homer_navigation')
     slam_config_path = homerun_package_path / 'configs/localization_params.yaml'
     nav_config_path = homerun_package_path / 'configs/nav2_params.yaml'
-    rviz_config_path = homerun_package_path / 'rviz/localization.rviz'
+    rviz_config_path = homerun_package_path / 'rviz/navigation.rviz'
 
     sim_time_arg = DeclareLaunchArgument(
         name='use_sim_time',
