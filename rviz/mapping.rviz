@@ -8,7 +8,7 @@ Panels:
         - /Status1
         - /TF1/Frames1
         - /Odometry1/Shape1
-      Splitter Ratio: 0.5
+      Splitter Ratio: 0.6
     Tree Height: 287
   - Class: rviz_common/Selection
     Name: Selection
@@ -267,5 +267,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 1280
-  X: 66
-  Y: 32
+  X: 0
+  Y: 0
