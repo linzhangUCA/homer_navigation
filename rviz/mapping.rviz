@@ -8,7 +8,7 @@ Panels:
         - /Status1
         - /TF1/Frames1
         - /Odometry1/Shape1
-      Splitter Ratio: 0.7
+      Splitter Ratio: 0.3
     Tree Height: 300
   - Class: rviz_common/Selection
     Name: Selection
@@ -17,12 +17,12 @@ Panels:
       - /2D Goal Pose1
       - /Publish Point1
     Name: Tool Properties
-    Splitter Ratio: 0.5886790156364441
+    Splitter Ratio: 0.3
   - Class: rviz_common/Views
     Expanded:
       - /Current View1
     Name: Views
-    Splitter Ratio: 0.5
+    Splitter Ratio: 0.3
   - Class: rviz_common/Time
     Experimental: false
     Name: Time
